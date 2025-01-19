@@ -1,27 +1,68 @@
-# 💫 About Me:
-🎓 Student: BSc in Software Engineering at Swami Ramanand Teerth Marathwada University (2022–2025).<br>🖥️ Core Skills: Java, Spring Boot, Django, Hibernate, Python, PHP, HTML, CSS, and responsive web development.<br>🚀 Goal: To build impactful software solutions while expanding my technical expertise.<br>🌐 Location: Latur, Maharashtra, India.
+<h1>Hi, I'm Rushikesh Mithagare! 👋</h1>
 
+<p>
+  I'm an aspiring Full-Stack Software Engineer with a strong passion for solving real-world problems through clean, efficient code. Currently studying Software Engineering at Swami Ramanand Teerth Marathwada University (SRTMU), Nanded, I specialize in backend development with <strong>Java</strong>, <strong>Python</strong>, <strong>Spring Boot</strong>, and <strong>Django</strong>. I also enjoy working on front-end technologies such as <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-mithagare-639861178) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/RUSHIMITHAGARE?t=q971p2BaEh6E7whIIsiqQQ&s=08) 
+<p>
+  I thrive in building scalable, responsive web applications and have experience working with <strong>AWS</strong> services, databases like <strong>PostgreSQL</strong>, and modern development practices using <strong>Git</strong>, <strong>Maven</strong>, and <strong>REST APIs</strong>.
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaibhavxom&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavxom&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavxom&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p>
+  When I'm not coding, I'm constantly learning new technologies and honing my problem-solving skills. I'm eager to contribute to meaningful projects, collaborate with like-minded developers, and grow as a software engineer.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vaibhavxom&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2>🚀 Languages and Tools I Use</h2>
+<p>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" /></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42" /></a>
+  <a href="https://www.cplusplus.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" /></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" /></a>
+  <a href="https://spring.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="42" height="42" /></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="42" height="42" /></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="42" height="42" /></a>
+  <a href="https://opencv.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="42" height="42" /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" /></a>
+  <a href="https://www.oracle.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="42" height="42" /></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42" /></a>
+  <a href="https://firebase.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" /></a>
+  <a href="https://www.djangoproject.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="42" height="42" /></a>
+  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="42" height="42" /></a>
+  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42" /></a>
+  <a href="https://www.blender.org" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="42" height="42" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" /></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h2>✒️ Recent Posts</h2>
+<ul>
+  <li><a href="https://github.com/vaibhavxom/Spring-Aws" target="_blank">
+    <strong>My Journey with Spring Boot – Uploading Files to AWS S3 Bucket</strong> (January 2025)<br>
+    In this post, I share how I integrated file upload functionality into a Spring Boot application, leveraging AWS S3 to store uploaded files. This was an exciting challenge as it involved setting up proper permissions, configuring AWS SDK, and handling file storage efficiently.
+    </a></li>
+  <br/>
+  <li><a href="https://github.com/vaibhavxom/Django-E-comm" target="_blank">
+    <strong>Building a Tour Package Booking System with Django</strong> (December 2024)<br>
+    I’ve been working on an eCommerce project, and I shared my experiences with implementing a tour package booking system using Django. It’s been an interesting project involving lots of SQL queries, APIs, and user authentication.
+    </a></li>
+</ul>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vaibhavxom&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavxom&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavxom&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=vaibhavxom&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>🏆 GitHub Achievements</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavxom" alt="GitHub Trophies" />
+  </a>
+</p>
