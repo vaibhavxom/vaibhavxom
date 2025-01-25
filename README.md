@@ -11,7 +11,7 @@
 <p>
   When I'm not coding, I'm constantly learning new technologies and honing my problem-solving skills. I'm eager to contribute to meaningful projects, collaborate with like-minded developers, and grow as a software engineer.
 </p>
-
+#
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></a>
@@ -38,7 +38,7 @@
   <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" /></a>
 </p>
-
+#
 <h2>✒️ Recent Posts</h2>
 <ul>
   <li><a href="https://github.com/vaibhavxom/Spring-Aws" target="_blank">
@@ -51,7 +51,7 @@
     I’ve been working on an eCommerce project, and I shared my experiences with implementing a tour package booking system using Django. It’s been an interesting project involving lots of SQL queries, APIs, and user authentication.
     </a></li>
 </ul>
-
+#
 <h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavxom&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
@@ -59,11 +59,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavxom&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
+#
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
+#
 [![](https://visitcount.itsvg.in/api?id=vaibhavxom&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Visitor Count](https://profile-counter.glitch.me/vaibhavxom/count.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
