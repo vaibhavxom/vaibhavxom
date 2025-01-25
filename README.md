@@ -11,7 +11,7 @@
 <p>
   When I'm not coding, I'm constantly learning new technologies and honing my problem-solving skills. I'm eager to contribute to meaningful projects, collaborate with like-minded developers, and grow as a software engineer.
 </p>
-#
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" /></a>
@@ -51,7 +51,7 @@
     I’ve been working on an eCommerce project, and I shared my experiences with implementing a tour package booking system using Django. It’s been an interesting project involving lots of SQL queries, APIs, and user authentication.
     </a></li>
 </ul>
-#
+
 <h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaibhavxom&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
