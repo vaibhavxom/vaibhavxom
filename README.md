@@ -59,10 +59,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavxom&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-#
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-#
+
 [![](https://visitcount.itsvg.in/api?id=vaibhavxom&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Visitor Count](https://profile-counter.glitch.me/vaibhavxom/count.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
