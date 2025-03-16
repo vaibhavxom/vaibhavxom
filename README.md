@@ -16,8 +16,6 @@ I specialize in **Java, Python, Spring Boot, and Django** for backend developmen
 
 ## 🚀 Languages & Tools  
 
-## 🚀 Languages & Tools  
-
 | Programming | Backend | Frontend | Databases | Cloud & DevOps |
 |------------|---------|----------|-----------|---------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> **Java** | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"> **Spring Boot** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"> **React** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"> **PostgreSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"> **AWS** |
