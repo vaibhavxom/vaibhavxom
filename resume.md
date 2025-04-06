@@ -57,7 +57,7 @@ Designed a basic blockchain prototype with **proof-of-work**, block validation, 
 
 **B.Sc. in Software Engineering**  
 Swami Ramanand Teerth Marathwada University, Nanded *(2022 – 2025)*  
-Royal Education Society’s College of CS & IT, Latur  
+Royal Education Society’s College of CS & IT(COCSIT), Latur  
 📊 *CGPA: 8.5/10*
 
 ---
