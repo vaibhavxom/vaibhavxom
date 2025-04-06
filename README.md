@@ -1,20 +1,20 @@
-### Hi, I'm Rushikesh Mithagare! 👋  
-Passionate **Full-Stack Software Engineer** eager to build scalable, efficient applications.  
-I specialize in **Java, Python, Spring Boot, and Django** for backend development and enjoy working with **HTML, CSS, JavaScript** on the frontend.  
+# 👋 Hi, I'm Rushikesh Mithagare
 
-🚀 **What I Do:**  
-- Design and develop **scalable** web applications  
-- Work with **AWS, PostgreSQL, REST APIs, Git, and Docker**  
-- Explore **AI, Blockchain, and Cloud Computing**  
+🎓 Final-year Computer Science student at COCSIT, SRTMU Nanded (Graduating: April 2025)  
+💻 Passionate **Full-Stack Developer** specializing in **Java**, **Spring Boot**, **Python**, and **Django**  
+🚀 Building scalable backend systems and modern frontend experiences
 
-🛠 **Tech Stack:** Java | Python | Spring Boot | Django | AWS | PostgreSQL | React | Git | Docker  
-💡 **Currently Exploring:** AI-powered resume evaluation tools, Blockchain concepts  
+---
 
-📫 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/rushikesh-mithagare-639861178) | [GitHub](https://github.com/vaibhavxom)
+## 🔍 About Me
 
+- 🔧 Backend-focused developer with frontend flair
+- 🌐 Love building APIs, exploring **AI**, **Blockchain**, and **Cloud Computing**
+- 💼 Open to **Remote Full-Time** or **Internship** opportunities in Backend / Full-Stack Development
 
-## 🚀 Languages & Tools  
+---
+
+## 🛠 Tech Stack
 
 | Programming | Backend | Frontend | Databases | Cloud & DevOps |
 |------------|---------|----------|-----------|---------------|
@@ -22,23 +22,50 @@ I specialize in **Java, Python, Spring Boot, and Django** for backend developmen
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> **Python** | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"> **Django** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> **HTML** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"> **MySQL** | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"> **Docker** |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"> **C++** | <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="40"> **Flask** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"> **CSS** | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="40"> **MongoDB** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> **Git** |
 
-## ✨ Recent Projects  
+---
 
-🔹 **[Spring Boot AWS S3 File Upload](https://github.com/vaibhavxom/Spring-Aws) (Jan 2025)**  
-- Built a **file upload system** using **Spring Boot** and **AWS S3**  
-- Configured AWS SDK, IAM permissions, and handled storage efficiently  
+## 📌 Pinned Projects
 
-🔹 **[Django Tour Package Booking System](https://github.com/vaibhavxom/Django-E-comm) (Dec 2024)**  
-- Developed an **eCommerce platform** for booking tour packages  
-- Implemented **SQL queries, APIs, and authentication**  
+🔹 **[Spring Boot AWS S3 File Upload](https://github.com/vaibhavxom/Spring-Aws)**  
+- ⬆️ Uploads files securely to AWS S3 using Spring Boot  
+- 🔒 IAM permission handling and AWS SDK integration  
+- ⚙️ Reduced upload latency by 15%
 
-🔹 **[Simple Blockchain Implementation](https://github.com/vaibhavxom/Simple-BlockChain) (Jan 2025)**  
-- Built a **basic blockchain system** with block creation, validation, and proof-of-work  
-- Used **Bouncy Castle (bcprov-lts8on-2.73.7.jar) for cryptography** and **Gson for JSON serialization**
+🔹 **[Django Tour Package Booking System](https://github.com/vaibhavxom/Django-E-comm)**  
+- 🧳 End-to-end eCommerce-style tour booking application  
+- 🔐 Auth, SQL queries, booking APIs, and admin panel  
+- 📦 SQLite-based backend with user management
 
-## 📊 GitHub Stats  
+🔹 **[Simple Blockchain in Java](https://github.com/vaibhavxom/Simple-BlockChain)**  
+- 🔗 Built a custom blockchain with proof-of-work and hash validation  
+- 🔐 Used **Bouncy Castle** for cryptography  
+- 📦 Gson for JSON serialization
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavxom&theme=dark&show_icons=true&locale=en" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavxom&theme=dark&show_icons=true&locale=en&layout=compact" width="48%">
-</p>
+---
+
+## 🏅 Achievements & Certifications
+
+- ✅ **Accenture Job Simulation** – Improved search by 30%, 100% sprint goal completion  
+- 📜 Certified in **Spring Boot**, **Full Stack Java**, **Python**, and **Problem Solving**  
+- 🧠 95% accuracy in coding assessments  
+- 💬 Speaker at college events on AI and career prep
+
+---
+
+## 📈 GitHub Insights
+
+![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavxom&theme=dark&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavxom&theme=dark&show_icons=true&locale=en&layout=compact)
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rushikesh-mithagare-639861178)  
+- 💻 [GitHub](https://github.com/vaibhavxom)  
+- 📧 Email: **rushimithagare02@gmail.com**  
+- 📍 Location: Latur, Maharashtra, India  
+- 📄 [View Resume](https://github.com/vaibhavxom/vaibhavxom/blob/main/resume.md) <!-- Replace with actual resume link -->
+
+---
+
