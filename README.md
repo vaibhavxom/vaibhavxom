@@ -1,54 +1,55 @@
 # 👋 Hi, I'm Rushikesh Mithagare
 
-🎓 Final-year Computer Science student at COCSIT, SRTMU Nanded (Graduating: April 2025)  
-💻 Passionate **Full-Stack Developer** specializing in **Java**, **Spring Boot**, **Python**, and **Django**  
-🚀 Building scalable backend systems and modern frontend experiences
+🎓 **Computer Science Graduate** | COCSIT, SRTMU Nanded – Class of 2025  
+💻 **Full-Stack Developer** skilled in **Java**, **Spring Boot**, **Python**, and **Django**  
+🚀 I build scalable backend systems and seamless, user-friendly frontend experiences  
+🔍 Passionate about continuous learning, solving real-world problems, and building impactful tech solutions
 
 ---
 
 ## 🔍 About Me
 
-- 🔧 Backend-focused developer with frontend flair
-- 🌐 Love building APIs, exploring **AI**, **Blockchain**, and **Cloud Computing**
-- 💼 Open to **Remote Full-Time** or **Internship** opportunities in Backend / Full-Stack Development
+- 🔧 Backend-focused developer with a flair for clean, modern frontend design  
+- 🌐 Enjoy building APIs and exploring emerging technologies like **AI**, **Blockchain**, and **Cloud Computing**  
+- 💼 Open to **Full-Time**, **Remote**, **Hybrid**, or **On-Site** roles in **Backend** / **Full-Stack Development**
 
 ---
 
 ## 🛠 Tech Stack
 
 | Programming | Backend | Frontend | Databases | Cloud & DevOps |
-|------------|---------|----------|-----------|---------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> **Java** | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"> **Spring Boot** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"> **React** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"> **PostgreSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"> **AWS** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> **Python** | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"> **Django** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> **HTML** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"> **MySQL** | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"> **Docker** |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"> **C++** | <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="40"> **Flask** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"> **CSS** | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="40"> **MongoDB** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> **Git** |
+|------------|---------|----------|-----------|----------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> Java | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"> Spring Boot | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"> React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"> PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"> AWS |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> Python | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"> Django | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"> HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"> MySQL | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"> Docker |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"> C++ | <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="40"> Flask | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"> CSS | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="40"> MongoDB | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"> Git |
 
 ---
 
 ## 📌 Pinned Projects
 
 🔹 **[Spring Boot AWS S3 File Upload](https://github.com/vaibhavxom/Spring-Aws)**  
-- ⬆️ Uploads files securely to AWS S3 using Spring Boot  
-- 🔒 IAM permission handling and AWS SDK integration  
-- ⚙️ Reduced upload latency by 15%
+- ⬆️ Upload files securely to AWS S3 using Spring Boot  
+- 🔐 IAM permission management and AWS SDK integration  
+- ⚙️ Achieved 15% latency reduction during uploads
 
 🔹 **[Django Tour Package Booking System](https://github.com/vaibhavxom/Django-E-comm)**  
-- 🧳 End-to-end eCommerce-style tour booking application  
-- 🔐 Auth, SQL queries, booking APIs, and admin panel  
-- 📦 SQLite-based backend with user management
+- 🧳 Full-featured eCommerce-style tour booking system  
+- 🔐 Includes authentication, booking APIs, SQL integration, and admin panel  
+- 💾 Built using SQLite with modular backend design
 
 🔹 **[Simple Blockchain in Java](https://github.com/vaibhavxom/Simple-BlockChain)**  
-- 🔗 Built a custom blockchain with proof-of-work and hash validation  
-- 🔐 Used **Bouncy Castle** for cryptography  
-- 📦 Gson for JSON serialization
+- 🔗 Created a basic blockchain from scratch with proof-of-work and hash validation  
+- 🔐 Utilized **Bouncy Castle** for encryption  
+- 📦 Employed Gson for JSON serialization and structure
 
 ---
 
 ## 🏅 Achievements & Certifications
 
-- ✅ **Accenture Job Simulation** – Improved search by 30%, 100% sprint goal completion  
-- 📜 Certified in **Spring Boot**, **Full Stack Java**, **Python**, and **Problem Solving**  
-- 🧠 95% accuracy in coding assessments  
-- 💬 Speaker at college events on AI and career prep
+- ✅ Completed **Accenture Job Simulation** – Improved search efficiency by 30% and achieved 100% sprint success  
+- 📜 Certified in **Spring Boot**, **Full Stack Java Development**, **Python**, and **Problem Solving**  
+- 🧠 Scored 95%+ in coding assessments and problem-solving challenges  
+- 🎙️ Invited speaker at college seminars on **AI** and **Career Development**
 
 ---
 
@@ -68,4 +69,3 @@
 - 📄 [View Resume](https://github.com/vaibhavxom/vaibhavxom/blob/main/resume.md) <!-- Replace with actual resume link -->
 
 ---
-
